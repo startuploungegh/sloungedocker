@@ -1,1 +1,4 @@
 sloungedockerenv/
+__pycache__/
+.env
+.flaskenv
